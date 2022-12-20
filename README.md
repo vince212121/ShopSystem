@@ -1,4 +1,5 @@
 # ShopSystem
+Created with Spring Boot and Angular
 
 ## Build the server
 1. You need to use the Maven: Execute commands then select the package option
